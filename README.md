@@ -1,7 +1,7 @@
 # Comparative Analysis of Linear Regression Models with Regularization and Feature Selection
 
 ## Project Overview
-This project explores methods such as forward variable selection, hypothesis tests for regression coefficients, ridge regression, Lasso, Elastic Net, Principal Component Analysis (PCA), and Principal Component Regression (PCR).
+This project explores methods such as Linear Regression, forward variable selection, hypothesis tests for regression coefficients, ridge regression, Lasso, Elastic Net, Principal Component Analysis (PCA), and Principal Component Regression (PCR).
 
 ## Methods Covered
 
