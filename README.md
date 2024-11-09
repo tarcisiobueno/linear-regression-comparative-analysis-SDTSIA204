@@ -1,7 +1,7 @@
-# Comparative Analysis of Linear Regression Models with Regularization and Feature Selection
+# This project uses the California Housing dataset to compare the performance of methods like Linear, Ridge, and Lasso Regression, and variable selection.
 
 ## Project Overview
-This project explores methods such as Linear Regression, forward variable selection, hypothesis tests for regression coefficients, ridge regression, Lasso, Elastic Net, Principal Component Analysis (PCA), and Principal Component Regression (PCR).
+This project was done during the course of Statistics: Linear Models at Télécom Paris. It explores methods such as Linear Regression, forward variable selection, hypothesis tests for regression coefficients, ridge regression, Lasso, Elastic Net, Principal Component Analysis (PCA), and Principal Component Regression (PCR).
 
 ## Methods Covered
 
